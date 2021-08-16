@@ -1,0 +1,43 @@
+@charset "utf-8";
+#heading {
+    color: #C53032;
+}
+  .jumbotron {
+      margin-bottom: 0;
+	  background: #ffd5cd;
+    }
+.navbar-brand{
+	font-family:'Galada', cursive;
+	font-size: 26px;
+	
+}
+.navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+    }
+    
+     .jumbotron {
+      margin-bottom: 0;
+    }
+.cart{
+	text-align: center;
+	padding: 25px;
+	margin: 100px;
+	background-color:#E7E7E7;
+}
+.panel-footer{
+	font-weight: 600;
+}
+   footer {
+      background-color: #ffd5cd;
+      padding: 100px;
+    }
+.fram{
+    margin-top: 100px;
+}
+.details{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom:   40px;
+    font-size: 20px;
+}
